@@ -1,3 +1,5 @@
 CX_buttonlight-backups/**
 production/**
 fp-info-cache
+*.lck
+
