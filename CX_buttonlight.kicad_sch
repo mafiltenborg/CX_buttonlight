@@ -1230,7 +1230,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31168fdf-0c43-42a9-b619-6b6f7df599ae")
-		(property "Reference" "Supply"
+		(property "Reference" "Supply1"
 			(at 73.152 59.69 90)
 			(effects
 				(font
@@ -1280,7 +1280,7 @@
 		(instances
 			(project ""
 				(path "/a6c7f972-13d1-471d-8078-ec61320b86a9"
-					(reference "Supply")
+					(reference "Supply1")
 					(unit 1)
 				)
 			)
@@ -1830,7 +1830,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9e5084b4-4e38-472d-b1dc-6ffd1428bb7d")
-		(property "Reference" "Ground"
+		(property "Reference" "Ground1"
 			(at 80.01 66.04 90)
 			(effects
 				(font
@@ -1880,7 +1880,7 @@
 		(instances
 			(project "CX_buttonlight"
 				(path "/a6c7f972-13d1-471d-8078-ec61320b86a9"
-					(reference "Ground")
+					(reference "Ground1")
 					(unit 1)
 				)
 			)
