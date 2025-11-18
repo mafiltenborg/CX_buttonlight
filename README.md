@@ -1,6 +1,6 @@
 # What's this?
 Incandescent bulbs are used in the most bizarre places in older cars - and they're often hard to replace when they burn out.
-This repo holds a tiny pcb with LEDs, designed to replace one of these specialty bulb-PITAs - once and for all!
+This repo holds an absolutely tiny pcb with LEDs, designed to replace one of these specialty bulb-PITAs - once and for all!
 
 # Which & where
 The particular bulb being replicated/upgraded is located inside the toggle-contacts for eg electric windows or demister switch in the Citroen CX S2 (late model '86 onwards). Replacing requires disassembly and fairly good motorskills on your part. The design uses 0805 SMDs, making it, well, possible as least. I'm too old for 0402...
@@ -21,3 +21,6 @@ Vout = 1.25 * (1 + R2/R1)
 To calculate.
 
 Don't modify R1, as this may create instability.
+
+-----------------------
+Nov. 2025 update: This design has sparked development of a more userfriendly successor. More light and less hassle too. If interested, have a look [here](https://github.com/mafiltenborg/CX-buttonlight_v2)...
